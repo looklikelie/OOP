@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aGmXj265E6XLwg/0J9i5sFx4CAMzHJE7Ng0JUNMqwiU+GO2wM4MRzzCxaeLbY+rX3dFjobxdJGJ/XegKw/6fMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quili\\RiderProjects\\looklikelie\\IsuExtra\\IsuExtra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quili\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

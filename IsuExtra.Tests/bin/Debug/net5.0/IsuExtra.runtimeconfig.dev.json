@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\quili\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\quili\\.nuget\\packages"
+    ]
+  }
+}
